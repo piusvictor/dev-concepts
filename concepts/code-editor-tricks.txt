@@ -1,0 +1,12 @@
+Visual studio code tricks
+-----------------------------
+
+//Essential Extensions
+1.Live-server
+2.Tabnine Autocomplete
+3.Prettier- the code formatter
+4.GitLens //Git capability supercharge
+5.Code Spell Checker
+6.Es7 React/Redux/GraphQL/React-Native snippets
+7.HTML CSS support- Autocomplete css classes from imported files
+8.Quokka.js

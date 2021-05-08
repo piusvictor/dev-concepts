@@ -7,3 +7,8 @@ https://dimsemenov.com/plugins/magnific-popup/
 video libraries
 ---------------------
 https://appleple.github.io/modal-video/
+
+
+Animation libraries on scroll-view
+--------------------------
+https://www.cssscript.com/animating-visible-elements-on-scroll-animate-js/

@@ -11,4 +11,9 @@ https://appleple.github.io/modal-video/
 
 Animation libraries on scroll-view
 --------------------------
-https://www.cssscript.com/animating-visible-elements-on-scroll-animate-js/
+1.https://www.cssscript.com/animating-visible-elements-on-scroll-animate-js/
+
+2.https://scrollrevealjs.org/guide/installation.html('Recommendended')
+
+3.https://michalsnik.github.io/aos/('Recommendended as well')
+

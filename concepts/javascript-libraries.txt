@@ -1,0 +1,9 @@
+image libraries
+----------------------
+https://dimsemenov.com/plugins/magnific-popup/
+
+
+
+video libraries
+---------------------
+https://appleple.github.io/modal-video/

@@ -17,3 +17,28 @@ Animation libraries on scroll-view
 
 3.https://michalsnik.github.io/aos/('Recommendended as well')
 
+
+
+Lazy-Loading image library
+-------------------------------
+1.Lozard.js
+
+
+//adding fade effect
+------------------------
+.lozad[data-src] {
+  &:not(.no-fade) {
+    transition: opacity 0.8s ease;
+    opacity: 0;
+
+    &[data-fully-loaded="true"] {
+      opacity: 1;
+    }
+  }
+}
+
+
+Link for list of libraries
+------------------------------
+https://blog.bitsrc.io/top-image-lazy-loading-libraries-for-javascript-dc39fbc9511f
+

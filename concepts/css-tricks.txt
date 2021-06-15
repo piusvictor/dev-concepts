@@ -1,2 +1,15 @@
 //Design for Prints
 https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/
+
+
+//Div Custom shapes
+https://bennettfeely.com/clippy/
+https://www.cssportal.com/css3-shapes/
+
+
+//CSS Gradient
+https://cssgradient.io/
+https://www.colorzilla.com/gradient-editor/
+https://www.css-gradient.com/
+https://mycolor.space/gradient
+https://uigradients.com/#Orca
